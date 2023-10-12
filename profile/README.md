@@ -6,16 +6,24 @@ We are a team of four software engineers from the University of Central Florida.
 
 ## Our Projects
 
-### 1. HandyDollar
+### 1. Review Generator 9000
+
+   - A review summarizer designed to scrape product reviews and deliver a list of quality, curated pros/cons and a generated summary.
+   - [Review Generator 9000](https://github.com/the-bigbrains/review-summarizer)
+
+### 2. HandyDollar
    - A financial planning tool aimed to help the user understand and categorize their spending in order to make more educated decisions about future budgeting.
-   - [HandyDollar](https://github.com/sandydollarioify/HandyDollar)
+   - [HandyDollar](https://github.com/the-bigbrains/HandyDollar)
 
 ## Hackathon Wins
 
 Here are some of our notable achievements:
 
+### 1. KnightHacks (2023)
+   - **1st Place | Microsoft & Royal Bank of Canada's Best Use of AI: How could we use Gen Ai to create better shopping experiences?**
+
 ### 1. ShellHacks (2023)
-   - **2nd Place | Google's Empowering Learners with Technology**: We developed a financial budgeting tool aimed to help students track and categorize spending.
+   - **2nd Place | Google's Empowering Learners with Technology**
 
 ## Meet Our Team
 
